@@ -7,3 +7,9 @@ project_notes.txt
 #dot folders/files
 .*/
 .*
+
+#pdf_file
+document/*
+
+#chroma db
+chroma-vectordb/
