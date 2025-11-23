@@ -3,3 +3,7 @@ venv/
 
 #project_notes
 project_notes.txt
+
+#dot folders/files
+.*/
+.*
